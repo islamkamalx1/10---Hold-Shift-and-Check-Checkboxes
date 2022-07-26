@@ -1,1 +1,1 @@
-# 10---Hold-Shift-and-Check-Checkboxes
+# Hold-Shift-and-Check-Checkboxes
